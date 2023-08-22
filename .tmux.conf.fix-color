@@ -1,3 +1,5 @@
+# @See: https://github.com/kylo252/dotfiles/blob/56f317f9ca11815c59b723103ce8a6619bfbaebb/.config/tmux/tmux.conf#L7-L30
+
 # set the default TERM
 if-shell 'infocmp $TERM' { set default-terminal "$TERM" } { set default-terminal tmux-256color }
 
