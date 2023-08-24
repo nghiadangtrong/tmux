@@ -1,4 +1,4 @@
-# @See: https://github.com/josean-dev/dev-environment-files/tree/main/.config/nvim/lua/josean
+# @See: https://github.com/josean-dev/dev-environment-files
 
 set -g default-terminal "screen-256color"
 
